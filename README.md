@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects, skills, and achievements.
 
 ## 🔗 Live Website
-https://your-username.github.io/portfolio/
+https://sachin-chaudharyy.github.io/Portfolio/
 
 ## 🛠️ Tech Stack
 - HTML
